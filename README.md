@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**rodrigodrebes/rodrigodrebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 My name is Rodrigo Drebes, I'm bachelor in Social Sciences (UFRGS) and started my Dev Career in 2021. 
 
-Here are some ideas to get you started:
+- 📚 Currently studing Web Systems Development at Instituto Federal Catarinense (IFC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📜 I have a good knowledge in Python, HTML/CSS/JavaScript and MySQL.
+
+- ⏳ At the moment, I'm focused on learning Node.js
+
+- 📫 You can reach me at: rodrigodrbs@gmail.com
+
+
+<a href="https://www.linkedin.com/in/rodrigodrebes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
