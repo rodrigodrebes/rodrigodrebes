@@ -6,7 +6,7 @@
 
 - 📜 I have a good knowledge in Python, HTML/CSS/JavaScript and MySQL.
 
-- ⏳ At the moment, I'm focused on learning Node.js
+- ⏳ At the moment, I'm focused on learning more about JavaScript and Node.js
 
 - 📫 You can reach me at: rodrigodrbs@gmail.com
 
