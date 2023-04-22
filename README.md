@@ -6,7 +6,7 @@
 
 - 📜 I have a good knowledge in Python (Flask, Django and Machine Learning libs) and Java.
 
-- ⏳ At the moment, I'm focused on learning more about Python and its libraries.
+- ⏳ At the moment, I'm focused on learning more about Neural Networks and Machine Learning libraries.
 
 - 📫 You can reach me at: rodrigodrbs@gmail.com
 
