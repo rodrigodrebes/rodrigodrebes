@@ -4,7 +4,7 @@
 
 - 📚 Currently studing Web Systems Development at Instituto Federal Catarinense (IFC) and Systems Analysis and Development at Univates.
 
-- 📜 I have a good knowledge in Python (Flask, Django and Machine Learning libs) and Java.
+- 📜 I have a good knowledge in Python (Flask, Django and Data Science and Machine Learning libs) and Java (Hibernate, jakarta EE).
 
 - ⏳ At the moment, I'm focused on learning more about Neural Networks and Machine Learning libraries.
 
