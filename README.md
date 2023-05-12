@@ -4,9 +4,9 @@
 
 - 📚 Currently studing Web Systems Development at Instituto Federal Catarinense (IFC) and Systems Analysis and Development at Univates.
 
-- 📜 I have a good knowledge in Python (Flask, Django, Data Science and Machine Learning libs) and Java (Hibernate, jakarta EE).
+- 📜 I have a good knowledge in Python (Flask, Django, SQLite, Data Science and Machine Learning libs) and Java (JavaEE, Spring, H2 and Hibernate).
 
-- ⏳ At the moment, I'm focused on learning more about SpringBoot and Machine Learning.
+- ⏳ At the moment, I'm focused on learning more about Java Spring and ML algorithms.
 
 - 📫 You can reach me at: rodrigodrbs@gmail.com
 
