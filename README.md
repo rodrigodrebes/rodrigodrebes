@@ -4,7 +4,7 @@
 
 - 📚 Currently studing Systems Analysis and Development at Univates.
 
-- 📜 I have a good knowledge in Python (Flask, Django, SQLite) Java (JakartaEE, Java Spring, H2 and Hibernate) and relational databases (Oracle, Postgre and MySQL).
+- 📜 I have a good knowledge in Python (Flask and SQLite) Java (JakartaEE, Java Spring, H2 and Hibernate) and relational databases (Oracle, PostgreSQL and MySQL).
 
 - 📫 You can reach me at: rodrigodrbs@gmail.com
 
