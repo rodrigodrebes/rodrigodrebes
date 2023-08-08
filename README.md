@@ -11,3 +11,6 @@
 
    <a href="https://www.linkedin.com/in/rodrigodrebes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodrebes&theme=tokyonight)
+
